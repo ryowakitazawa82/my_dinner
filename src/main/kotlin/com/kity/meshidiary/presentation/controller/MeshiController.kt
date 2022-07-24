@@ -1,4 +1,4 @@
-package com.kity.meshidiary.application.controller
+package com.kity.meshidiary.presentation.controller
 
 import org.springframework.stereotype.Controller
 import org.springframework.ui.Model
