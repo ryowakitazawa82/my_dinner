@@ -1,0 +1,1 @@
+insert into recipi (title, description, price) values('サンプルタイトル', 'このテキストはダミーです。このテキストはダミーです。',1200);

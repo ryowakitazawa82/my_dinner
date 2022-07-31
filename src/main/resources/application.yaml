@@ -1,7 +1,5 @@
 spring:
-datasource:
-url: jdbc:mysql://localhost/my_dinner
-username: root
-password:
-schema: classpath:schema.sql
-initialization-mode: always
+  datasource:
+    url: jdbc:mysql://localhost/my_dinner
+    username: root
+    password:
